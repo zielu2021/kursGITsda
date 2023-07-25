@@ -1,1 +1,2 @@
-Ala ma kota i rybki.
+<<<<<<< HEAD
+Ala ma kota, psa i rybki.
